@@ -2,3 +2,4 @@ gitの練習を始めます
 Gitをコミットをします
 git status
 git diff
+git git
